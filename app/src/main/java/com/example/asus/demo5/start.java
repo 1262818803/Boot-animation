@@ -28,10 +28,7 @@ public class start extends AppCompatActivity {
             public void onAnimationRepeat(Animation animation) {}
             @Override
             public void onAnimationStart(Animation animation) {}
-
         });
-
-
     }
 
     /**
